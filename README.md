@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm rahul p nair</h1>
+<h1 align="center">hey 👋, I'm rahul p nair</h1>
 <h3 align="center">Crafting elegance, line by line, code by code.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
