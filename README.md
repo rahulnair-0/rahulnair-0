@@ -4,9 +4,9 @@
 <h3 align="center">Crafting elegance, line by line, code by code.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🌱 I’m currently learning **Cybersecurity, Front end development**
+- 🌱 I’m currently working as an **Embedded Engineer** at **Visteon Technical and Service Limited**
 
-- 💬 Ask me about **competitive programming, web development, machine learning**
+- 💬 Ask me about **Software development, competitive programming, machine learning**
 
 - 📫 How to reach me **rahulp.nair.2504@gmail.com**
 
